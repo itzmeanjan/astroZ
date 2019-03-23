@@ -1,6 +1,6 @@
-# nasa_apod
+# astroZ
 
-A simple flutter application to display NASA APOD.
+An Android App, shows Astronomy Picture of the Day, built with :heart: using Flutter.
 
 
 ## Documentation ::
@@ -47,6 +47,37 @@ A simple flutter application to display NASA APOD.
   13. This app also displays test Ads using **Google's Mobile Ad SDK**.
   
   14. You might consider using this app's code as an example for using Ads in your app, so that you can monitize your app.
+  
+  15. This app also caches previously queried APOD in local SQLite database using ROOM consistency Library.
+  
+  16. So, when previously requested data is available in local database, it will simply use that otherwise it will perform a query to that Express App, which you may find [here](https://github.com/itzmeanjan/apod_server).
+  
+  
+## Screenshots ::
+
+  ![Screen Capure 1](https://github.com/itzmeanjan/astroZ/blob/master/Screenshot_20190317-122725.png)
+  
+  ![Screen Capure 1](https://github.com/itzmeanjan/astroZ/blob/master/Screenshot_20190317-122734.png)
+  
+  ![Screen Capure 1](https://github.com/itzmeanjan/astroZ/blob/master/Screenshot_20190317-122743.png)
+  
+  ![Screen Capure 1](https://github.com/itzmeanjan/astroZ/blob/master/Screenshot_20190317-122752.png)
+  
+  ![Screen Capure 1](https://github.com/itzmeanjan/astroZ/blob/master/Screenshot_20190317-122804.png)
+  
+  
+## Screen Recoring ::
+
+  You may like to check [this](https://github.com/itzmeanjan/astroZ/blob/master/screenRecord.mp4) screen recording out.
+  
+  
+## Download ::
+
+  You can download release version of this app [here](https://github.com/itzmeanjan/astroZ/blob/master/astroZ.apk) or just compile it yourself.
+  Don't forget to create local database and populate it with all APODs till date, using scripts from this [repo](https://github.com/itzmeanjan/apod_fetcher). 
+  Make sure you've started the Express App properly in local machine and set correct IPAddress and PortNumber. Otherwise you might see some unexpected results.
+  For initial testing I'd suggest you to run Express App aka [apod_server](https://github.com/itzmeanjan/apod_server) on a machine in Local Network. And later on you might think of shifting to Cloud solutions.
+  
   
 ## Courtesy ::
 
