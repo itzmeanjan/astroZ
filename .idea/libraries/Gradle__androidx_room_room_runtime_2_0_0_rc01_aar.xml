@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.0.0-rc01@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0-rc01.aar/c44d2db102d65c2eff417e7a427fe506/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
