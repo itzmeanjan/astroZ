@@ -83,7 +83,7 @@ An Android App, shows Astronomy Picture of the Day, built with :heart: using Flu
   
 ## Courtesy ::
 
-   Thanks to [Flutter](http://flutter.dev/), for building such a great UI framework, so that developers can make cool Apps easily. And :heart: for Dart Team.
+   Thanking [Tobaloidee](https://github.com/Tobaloidee) :heart:-ily for designing such a great logo for this project :+1:
    
 
 That's all. Hope it was helpful :blush:
