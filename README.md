@@ -1,3 +1,5 @@
+<p align="center"><img src="/logo/logotype-horizontal.png"></p>
+
 # astroZ
 
 An Android App, shows Astronomy Picture of the Day, built with :heart: using Flutter.
